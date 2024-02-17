@@ -3,7 +3,11 @@ This is a proyect that I made a few years back for a class.
 
 Everything is in java, u can play with it if u like :))
 
+Intrsuctions only avaleable in spanish for now.
+
 MANUAL DE USUARIO
+
+
 Hola, te doy la bienvenida al manual de usuario para poder conocer lo básico sobre las empresas más importantes en el mundo de la Música coreana. En primer lugar, te encontrarás con una ventana principal. En esta podrás interactuar para preguntar varias cosas. La información ya la hemos añadido nosotros, así que no te preocupes por ello. Primero que nada, en la parte izquierda tienes cuatro botones de distintos colores. 
 Cada uno de ellos hace referencia a una de las cuatro grandes empresas. No están en algún orden particular. Si haces click en uno de esos botones te mostrará a los artistas de la empresa, así como los datos básicos de la misma. Siendo estos el nombre y el año de creación de la empresa. 
 Ejemplo, si le coy click sobre el botón de magenta marcado como “HYBE” me abrirá una ventana. 
